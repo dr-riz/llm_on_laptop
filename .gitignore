@@ -1,3 +1,10 @@
 env
 lmsys
 .ipynb_checkpoints
+.venv
+main.py
+env_list_at_start_16oct24
+env_list_at_working_16oct24
+utils.py
+timer.py
+tmp
